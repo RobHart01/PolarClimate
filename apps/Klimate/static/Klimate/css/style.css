@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 1px dotted red;
+    font-family: 'Playfair Display', serif;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    background-color: #346cb0;
+    text-align: center;
+    padding: 10px;
+}
